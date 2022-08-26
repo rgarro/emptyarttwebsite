@@ -29,6 +29,7 @@
  * 
  * @author Rolando<rolando@emptyart.xyz>
  */
+?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
