@@ -1,23 +1,31 @@
 # emptyArt Web Site
 
-CakePHP 
-Assert True Tequila tres leches with Blueberry will sell 5 freelances before upgrade
+EmptyArt Freelancer WebSite
+A Portfolio Freelancer Contact WebSite with a 3D WebGL MicroGame
+Inspired by Zev Surasky Black Magic Media flash world with living creatures
+I decided to make the threejs WebGl micro war at the snowbird feet with my portfolio links , about page and contact form
+The War a crown of 3D fractal onUpdte shooting trigonometric ecuations , based on numeric modeling not game physics;
 
-1.CakePHP 
-1.Custom CRMs
-1.WebGL
-1.Graphic
-1.Mashups
-1.Content Management
-1.Ecommerce
-1.Database Design
-1.Custom Programming
-1.Linux Consulting
-1.2D & 3D Programming
-1.Game Programming
-1.Web Design
-1.Custom UI
-1.API for Mobile apps
-1.Custom Mobile Apps
+Need a Freelancer?
+$13USD/H
 
-http://www.emptyart.xyz
+### Services
+*CakePHP 
+*Custom CRMs
+*WebGL
+*Graphic
+*Mashups
+*Content Management
+*Ecommerce
+*Database Design
+*Custom Programming
+*Linux Consulting
+*2D & 3D Programming
+*3D Modeling
+*Game Programming
+*Web Design
+*Custom UI
+*API for Mobile apps
+*Custom Mobile Apps
+
+https://www.emptyart.xyz
