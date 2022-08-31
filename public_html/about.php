@@ -1,30 +1,30 @@
 <?php
-//echo "chunky Bacon! chunky Bacon! where is my pickup?";
 /**
  *           __
- *.-.__      \ .-.  ___  __
- *|_|  '--.-.-(   \/\;;\_\.-._______.-.
- *(-)___     \ \ .-\ \;;\(   \       \ \
- * Y    '---._\_((Q)) \;;\\ .-\     __(_)
- * I           __'-' / .--.((Q))---'    \,
- * I     ___.-:    \|  |   \'-'_          \
- * A  .-'      \ .-.\   \   \ \ '--.__     '\
- * |  |____.----((Q))\   \__|--\_      \     '
- *    ( )        '-'  \_  :  \-' '--.___\
- *     Y                \  \  \       \(_)
- *     I                 \  \  \         \,
- *     I                  \  \  \          \
- *     A                   \  \  \          '\
- *     |              snd   \  \__|           '
- *                           \_:.  \
- *                             \ \  \
- *                              \ \  \
- *                               \_\_|
+ *              ________
+ *         _,.-Y  |  |  Y-._
+ *     .-~"   ||  |  |  |   "-.
+ *     I" ""=="|" !""! "|"[]""|     _____
+ *     L__  [] |..------|:   _[----I" .-{"-.
+ *    I___|  ..| l______|l_ [__L]_[I_/r(=}=-P
+ *   [L______L_[________]______j~  '-=c_]/=-^
+ *    \_I_j.--.\==I|I==_/.--L_]
+ *      [_((==)[`-----"](==)j
+ *         I--I"~~"""~~"I--I
+ *         |[]|         |[]|
+ *         l__j         l__j
+ *         |!!|         |!!|
+ *         |..|         |..|
+ *         ([])         ([])
+ *         ]--[         ]--[
+ *         [_L]         [_L]  
+ *        /|..|\       /|..|\
+ *       `=}--{='     `=}--{='
+ *      .-^--r-^-.   .-^--r-^-.
+ * ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  * 
  * :: CAKEPHP TEQUILA TRES LECHES WITH BLUE BERRY :::
- * While hidding out in the Endor Moons I had a SlingShot Turbine comming from Tatooine
- * Master Yoda I need a F150 Ford PickUp, Foil Fins from Alderan
- * SkyWalker 5'10 Bailing out from the Black Star
+ * ABOUT
  * 
  * 
  * @author Rolando<rolando@emptyart.xyz>
