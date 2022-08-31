@@ -28,7 +28,13 @@
  * 
  * :: CAKEPHP TEQUILA TRES LECHES WITH BLUE BERRY :::
  * CONTACT
- * 
+ * The Zintan brigades ridding fords f150
+ * machete duels and malian magic
+ * boko haram warlords with ancient mexican swords
+ * beheading the bbc correspondant
+ * while smoking hachis and cutting pieces of their enemies
+ * blue nile general blowing himself after the victory in front of his troops
+ * memories from my windsurf shack facing the ometepe Sapoa winds ...
  * 
  * @author Rolando<rolando@emptyart.xyz>
  */

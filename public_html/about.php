@@ -26,6 +26,18 @@
  * :: CAKEPHP TEQUILA TRES LECHES WITH BLUE BERRY :::
  * ABOUT
  * 
+ * Yo era un aprendiz de Miguel Salguero
+ * para ser agente de la dis, hay que descabezar un insurrecto de perez zeledon
+ * encontrar una piedra de roma en cartago y saber hacer granadas con agua y hielo seco
+ * el puente de Breda cayo en coronado, los cangrejeros de la aduana resistieron
+ * las doncellas de curridabath se suicidaron, piedreros que cobran peajes en las cuevas del virilla
+ * Dominicanos mercenarios de jhonny araya
+ * Lijamos el Bluebird de Miguel Angel Rodriguez mientras firmo 7 sentencias de muerte
+ * formalina del calderon guardia, ecos fantasmas del sanjuan de dios, desmilitarizados del chapui
+ * Tierra de medellin en el cementerio general, el verdadero jhonny araya murio en tripoli en 1987
+ * prostibulos de 5 esquinas , mafias de autobuses, zanates en la ciudad capital ...
+ * Miguel Salguero Mato a Chemise, se la cortaron Hugo Espadafora, 
+ * viviana gallardo traiciono a unos playos de la guardia civil
  * 
  * @author Rolando<rolando@emptyart.xyz>
  */
