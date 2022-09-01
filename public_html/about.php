@@ -38,6 +38,9 @@
  * prostibulos de 5 esquinas , mafias de autobuses, zanates en la ciudad capital ...
  * Miguel Salguero Mato a Chemise, se la cortaron Hugo Espadafora, 
  * viviana gallardo traiciono a unos playos de la guardia civil
+ * Putas del poder judicial , amigos de la ANEP, ruth angulo, camaradas de canal 13, amigos de diario extra
+ * Mis Ancestros fumaban Cachimba, daban perico a los penitentes, mataban los vecinos de los asesinos
+ * Adios Amigos, me he ido a morir a los volcanes nevados de mexico .....
  * 
  * @author Rolando<rolando@emptyart.xyz>
  */
