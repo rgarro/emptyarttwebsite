@@ -108,12 +108,12 @@
  </br>
  </br>
                 <div class="row">
-                    <div class="col-lg-4 ms-auto"><p class="lead">I started my creative career in the early nineties, welding metal frames for a highway signs company in Central America. My grandmother was a Nepalese teenager when she arrived to Costa Rica. My grandparent had Buthanese roots. I live exiled in Denver Colorado, begin alms selling my mind as computer programmer , freelancer saving money to move to Kalmykia</p></div>
-                    <div class="col-lg-4 me-auto"><p class="lead">I started my programming career at the begining of the Dot-com bubble with PHP Purple elephant and the MYSQL dolphin comming out from the Ramayana verses in my G4 Power PC laptop</p></div>
+                    <div class="col-lg-4 ms-auto"><p class="lead">I started my creative career in the early nineties, welding metal frames for a highway signs company in Central America. My grandmother was a Nepalese teenager when she arrived to Costa Rica. My grandparent had Buthanese roots. I live exiled in Denver Colorado, begin alms, selling my mind as computer programmer , freelancer saving money to move to Kalmykia</p></div>
+                    <div class="col-lg-4 me-auto"><p class="lead">I started my programming career at the begining of the dot-com bubble with PHP Purple elephant and the MYSQL dolphin comming out from the Ramayana verses in my G4 Power PC laptop. Baking CakePHP or looking for my pick-up truck writing Ruby tales, pushing to Heroku master. I became a super TDD junkie, watching the Snowbird Sunset .</p></div>
                 </div>
                 <!-- About Section Button-->
                 <div class="text-center mt-4">
-                    here
+                <p class="lead">I wrote my first 2D computer game in 2006, a simple trigonometric fractalized shooter in ActionScript2 https://github.com/rgarro/Odessa_Defender</p>
                 </div>
             </div>
         </section>
