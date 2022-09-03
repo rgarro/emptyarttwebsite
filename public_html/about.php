@@ -26,7 +26,7 @@
  * :: CAKEPHP TEQUILA TRES LECHES WITH BLUE BERRY :::
  * ABOUT
  * 
- * Yo era un aprendiz de Miguel Salguero
+ * Yo era un aprendiz de Miguel Salguero,
  * para ser agente de la DIS, hay que descabezar un insurrecto de Perez Zeledon
  * encontrar una piedra de Roma en Cartago y saber hacer granadas con agua y hielo seco
  * el puente de Breda cayo en coronado, los cangrejeros de la aduana resistieron
