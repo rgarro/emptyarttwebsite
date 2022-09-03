@@ -85,12 +85,39 @@
                 </div>
             </div>
         </nav>
-        <!-- Masthead-->
-        <header class="masthead bg-primary text-white text-center">
-            <div class="container d-flex align-items-center flex-column">
-                about
+        <!-- About Section-->
+        <section class="page-section bg-primary text-white mb-0" id="about">
+            <div class="container"></br>
+                <!-- About Section Heading-->
+                <h2 class="page-section-heading text-center text-uppercase text-white">About Me</h2>
+                <!-- Icon Divider-->
+                <div class="divider-custom divider-light">
+                    <div class="divider-custom-line">
+                    </br>
+                    <img src="aboutMe.png" alt="The Dharmakaya of my first G4 Power PC somewere in the 90's..." width="300"/>
+                    </div>
+                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                    <div class="divider-custom-line"></div>
+ 
+                </div>
+                <!-- About Section Content-->
+                </br>
+ </br>
+ </br>
+ </br>
+ </br>
+ </br>
+                <div class="row">
+                    <div class="col-lg-4 ms-auto"><p class="lead">I started my creative career in the early nineties, welding metal frames for a highway signs company in Central America. My grandmother was a Nepalese teenager when she arrived to Costa Rica. My grandparent had Buthanese roots. I live exiled in Denver Colorado, begin alms selling my mind as computer programmer , freelancer saving money to move to Kalmykia</p></div>
+                    <div class="col-lg-4 me-auto"><p class="lead">I started my programming career at the begining of the Dot-com bubble with PHP Purple elephant and the MYSQL dolphin comming out from the Ramayana verses in my G4 Power PC laptop</p></div>
+                </div>
+                <!-- About Section Button-->
+                <div class="text-center mt-4">
+                    here
+                </div>
             </div>
-        </header>
+        </section>
+        
         
         <!-- Footer-->
         <?php
