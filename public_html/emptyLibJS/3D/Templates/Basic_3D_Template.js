@@ -104,7 +104,7 @@
    Basic_3D_Template.prototype.handleResize = function() {
        this.camera.aspect = 1200 / 1000;
        this.camera.updateProjectionMatrix();
-       this.renderer.setSize(800, 600);
+       this.renderer.setSize(1200, 600);//make this sizes prototype my new snowboard in Provo next january ..
    }
 
    return Basic_3D_Template;

@@ -99,7 +99,7 @@
       <style>
 #gameInfo {
 position: absolute;
-top: 80px;
+top: 140px;
 left: 30px;
 width: 300;
 text-align: center;
@@ -121,11 +121,20 @@ display:block;
             </div>
         </nav>
         <!-- Masthead-->
-        <header class="masthead bg-primary text-white text-center">
-            <div id="gameContainer" class="container">
-        </div>
-            </div>
-        </header>
+        <!-- <header class="masthead bg-primary text-white text-center"> -->
+        <div class="container">
+  <div class="row">
+    <div class="col">
+      &nbsp;
+    </div>
+    <div class="col">
+    <div id="gameContainer" class="container-fluid"></div>
+    </div>
+  </div>
+</div>
+            
+            
+        <!-- </header> -->
         
         <!-- Footer-->
         <?php
