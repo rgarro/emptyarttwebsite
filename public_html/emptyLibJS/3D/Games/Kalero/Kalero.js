@@ -1,5 +1,27 @@
 /**
- * Carlos Fonseca era un eunuco de los sandinistas ...
+ *                  .                             .
+ *                 //                             \\
+ *                //                               \\
+ *               //                                 \\
+ *              //                _._                \\
+ *           .---.              .//|\\.              .---.
+ * ________ / .-. \_________..-~ _.-._ ~-..________ / .-. \_________ -sr
+ *          \ ~-~ /   /H-     `-=.___.=-'     -H\   \ ~-~ /
+ *            ~~~    / H          [H]          H \    ~~~
+ *                  / _H_         _H_         _H_ \
+ *                    UUU         UUU         UUU
+ * Im betting the russians on the Ukraine War
+ * From Russia with Love
+ * I will smoke a jamaiquina joint when russia wins 
+ * if russia lose Im quiting smoking cannabis
+ * in the meantime I have a thc indica cbd nuclear blast
+ * Dr Strangelove , the russian ambassador had an iWatch
+ * We all are going to die, Mr president is an iPhone
+ * Los agentes de la DIS tenian una silicon graphics del futuro
+ * con una version de Blender en microchip que funcionaba de keyboard shortcuts
+ * en los tiempos de Duran Duran y los New kids on the block 
+ * En El Avion de la Muerte se subieron aquel dia ...
+ *
  *
  * @author Rolando <rolando@emptyart.xyz>
  */

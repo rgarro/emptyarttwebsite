@@ -96,6 +96,17 @@
         <script src="/emptyLibJS/3D/Games/Kalero/Helicoptero.js"></script>
         <script src="/emptyLibJS/3D/Games/Kalero/Condor.js"></script>
       <script src="/emptyLibJS/3D/Games/Kalero/Kalero.js"></script>
+      <style>
+#gameInfo {
+position: absolute;
+top: 80px;
+left: 30px;
+width: 300;
+text-align: center;
+z-index: 100;
+display:block;
+}
+</style>      
     </head>
     <body id="page-top">
         <!-- Navigation-->
@@ -110,8 +121,8 @@
             </div>
         </nav>
         <!-- Masthead-->
-        <header class="masthead bg-primary text-white text-center">here
-            <div id="gameContainer" class="container d-flex align-items-center flex-column">
+        <header class="masthead bg-primary text-white text-center">
+            <div id="gameContainer" class="container">
         </div>
             </div>
         </header>

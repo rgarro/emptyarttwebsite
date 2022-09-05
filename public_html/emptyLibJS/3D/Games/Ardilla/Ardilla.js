@@ -1,6 +1,8 @@
 /**
  * una ardilla de 0.73 kg cae de un poste de luz y llega al suelo
  * en la mitad que dura el canto de un sanate negro  (1.7s) en el mes de junio  ...
+ * 
+ * Years later they know me as the squirrel wrangler, chasing roaming chipmucks on the road from a bike ..
  *
  * @author Rolando <rolando@emptyart.xyz>
  */
