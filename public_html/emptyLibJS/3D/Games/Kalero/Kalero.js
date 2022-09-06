@@ -53,7 +53,7 @@ Kalero.prototype.constructor = Kalero;
 
 Kalero.prototype.postInit = function(){
   var p = this;
-  this.camera.position.set(0,300,580);
+  this.camera.position.set(0,310,585);
   this.camera.lookAt(this.scene.position);
   this.floorAndSky();
   this.loadTank();

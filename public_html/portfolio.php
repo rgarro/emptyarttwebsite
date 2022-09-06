@@ -41,7 +41,7 @@
         <!-- Masthead-->
         <header class="masthead bg-primary text-white text-center">
             <div class="container d-flex align-items-center flex-column">
-                portfolio
+            <h2 class="page-section-heading text-center text-uppercase text-white">Portfolio</h2>
             </div>
         </header>
         

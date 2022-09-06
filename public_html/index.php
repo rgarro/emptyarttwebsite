@@ -102,7 +102,7 @@ position: absolute;
 top: 140px;
 left: 30px;
 width: 300;
-text-align: center;
+text-align: left;
 z-index: 100;
 display:block;
 }
