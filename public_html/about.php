@@ -113,7 +113,7 @@
                 </div>
                 <!-- About Section Button-->
                 <div class="text-center mt-4">
-                <p class="lead">I wrote my first 2D computer game in 2006, a simple trigonometric fractalized shooter in ActionScript2 https://github.com/rgarro/Odessa_Defender</p>
+                <p class="lead">here ..</p>
                 </div>
             </div>
         </section>
