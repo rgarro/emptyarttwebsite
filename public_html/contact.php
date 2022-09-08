@@ -61,7 +61,7 @@
         <!-- Masthead-->
         <header class="masthead bg-primary text-white text-center">
             <div class="container d-flex align-items-center flex-column">
-                contact
+            <center><h3 class="text-center text-uppercase text-white">Contact Me</h3>
             </div>
         </header>
         

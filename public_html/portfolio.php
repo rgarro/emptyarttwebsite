@@ -56,6 +56,7 @@
             <div class="text-center mt-4">
                 <p class="lead">
                 <h4>Project History</h4>
+                <a class="btn btn-outline-light" target="_blank" href="/MonsterCVRolandoGarro.pdf">Download My Resume</a></br>
                 <small>some websites I have worked in the past</br>
 have collaborated with many others</br>
 have worked in nameless backends, libraries and setups ...</small>
