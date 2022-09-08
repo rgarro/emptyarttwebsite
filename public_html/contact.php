@@ -61,7 +61,15 @@
         <!-- Masthead-->
         <header class="masthead bg-primary text-white text-center">
             <div class="container d-flex align-items-center flex-column">
-            <center><h3 class="text-center text-uppercase text-white">Contact Me</h3>
+            <center><h3 class="text-center text-uppercase text-white">Contact Me</h3></center>
+            <div class="card bg-dark" style="width: 18rem;">
+  <div class="card-body">
+    <h5 class="card-title">Rolando Garro</h5>
+    <h6 class="card-subtitle mb-2 text-muted"><a href= "mailto:rolando@emptyart.xyz" > rolando@emptyart.xyz </a>  </h6>
+    <p class="card-text">Need Help With your Web Programming Project? Contact me for a quote.</p>
+    <a href="#" class="card-link"><a class="btn btn-outline-light" target="_blank" href=" https://wa.me/+18504610264"><i class="fab fa-fw fa-whatsapp"></i> +18504610264 </a>
+  </div>
+</div>
             </div>
         </header>
         
