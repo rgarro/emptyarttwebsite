@@ -111,8 +111,8 @@
  </br>
  </br>
                 <div class="row">
-                    <div class="col-lg-4 ms-auto"><p class="lead">I have a Technical Grade as Analist Programmer, Associate Degree as Computer Engineer, Graphic Design Specialist, Web Programmer. Started my major in Electromechanic Engineering then moved to Computer Science, I know a lot of Math and Numeric Modeling.</p></div>
-                    <div class="col-lg-4 me-auto"><p class="lead">Im an expert in C++, C#,VisualBasic ,PHP, JavaScript,ActionScript, Ruby. Master  TDD techniques in Jasminejs, RSPEC, PHPUnit.I love baking CakePHP projects.Have participated in many Ecommerce projects.Drupal, Magento , Wordpress Webmaster. Custom Themes Building.</p></div>
+                    <div class="col-lg-4 ms-auto"><p class="lead">I have a Technical Grade as Analist Programmer, Associate Degree as Computer Engineer, Graphic Design Specialist, Web Programmer. Started my major in Electromechanic Engineering then moved to Computer Science. I know a lot of Math and Numeric Modeling.</p></div>
+                    <div class="col-lg-4 me-auto"><p class="lead">Im an expert in C++, C#,VisualBasic ,PHP, JavaScript,ActionScript, Ruby. Master  TDD techniques in Jasminejs, RSPEC, PHPUnit. I love baking CakePHP projects.Have participated in many Ecommerce projects.Drupal, Magento , Wordpress Webmaster. Custom Themes Building.</p></div>
                 </div>
                 <!-- About Section Button-->
                 <div class="text-center mt-4">
