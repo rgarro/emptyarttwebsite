@@ -44,39 +44,61 @@
             <h2 class="page-section-heading text-center text-uppercase text-white">Portfolio</h2>
             <div class="text-center mt-4">
                 <p class="lead">
-                Project I Worked on 2010
-Sitio Web
-project I worked on 2013
+                <h4>Project History</h4>
+                <ul class="list-group">
+  <li class="list-group-item">
+<h5> 2015</h5>
+http://prestomortgages.com/
+  </li>
+  <li class="list-group-item">
+<h5> 2014</h5>
+http://jacobestwestern.com/
+  </li>
+  <li class="list-group-item">
+<h5>2010</h5>
 http://superferia.com/
-Project I Worked on 2003
-Sitio Web
-project I worked on 2003
-http://www.abogados.or.cr/
-Project I Worked on 2005
-Sitio Web
-project I worked on 2005
-http://www.starbrightworld.org/
-Project I Worked on 2007
-Sitio Web
-project I worked on 2007
-https://www.dennysgiftcard.com/
-Project I Worked on 2008
-Sitio Web
-project I worked on 2008
+</li>
+  <li class="list-group-item">
+<h5>2009</h5>
+http://cutterbikes.com/
+</li>
+  <li class="list-group-item">
+<h5>2008</h5>
 http://www.whereskarl.com/
-Another Javascript Sample
-Artículos y Publicaciones
-javascript sample
-https://github.com/rgarro/PacPreloader
-Code Sample Javascript
-Artículos y Publicaciones
-code sample javascript
-https://github.com/rgarro/Route32
-Presentacion
-Sitio Web
-some codes samples to introduce myself
-http://tilapya-11303.herokuapp.com/    
-                I wrote my first 2D computer game in 2006, a simple trigonometric fractalized shooter in ActionScript2 https://github.com/rgarro/Odessa_Defender</p>
+</li>
+  <li class="list-group-item">
+<h5>2007</h5>
+https://www.dennysgiftcard.com/ </br>
+https://tourofchampions.com</br>
+https://iconator.com</br>
+</li>
+  <li class="list-group-item">
+<h5>2005</h5>
+http://www.starbrightworld.org/
+</li>
+<li class="list-group-item">
+<h5> 2004</h5>
+http://www.betplatinum.com/
+</li>  
+<li class="list-group-item">
+<h5> 2003</h5>
+http://www.abogados.go.cr/
+</li>
+<li class="list-group-item">
+<h5> 2002</h5>
+https://www.galadia.com/
+</li>
+<li class="list-group-item">
+<h5> 2001</h5>
+http://www.congrexpo.com/ <br>
+http://intersonics.net
+</li>
+<li class="list-group-item">
+<h5> 2000</h5>
+http://www.registronacional.go.cr/
+</li>
+</ul>
+</p>
                 </div>
             </div>
         </header>
