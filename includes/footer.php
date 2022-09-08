@@ -13,6 +13,7 @@
                         <a class="btn btn-outline-light btn-social mx-1" target="_blank" href="https://www.npmjs.com/~rgarro"><i class="fab fa-fw fa-npm"></i></a>
                         <a class="btn btn-outline-light btn-social mx-1" target="_blank" href="https://play.unity.com/u/RolandoGarroMena"><i class="fab fa-fw fa-unity"></i></a>
                         <a class="btn btn-outline-light btn-social mx-1" target="_blank" href="https://soundcloud.com/dorje-trolo"><i class="fab fa-fw fa-soundcloud"></i></a>
+                        <a class="btn btn-outline-light btn-social mx-1" target="_blank" href="https://www.flickr.com/photos/27974715@N07/"><i class="fab fa-fw fa-flickr"></i></a>
                     </div>
                     <!-- Footer About Text-->
                     
