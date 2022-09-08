@@ -123,7 +123,7 @@
  </br>      Unix, Linux , WebServers. Expert in RedHat,CentOS ,FreeBSD, Ubuntu and OSX
  </br>  Im also an avid Project Manager and Scrum Master. 
  </br>  Heroku Salesforce, Ruby , RubyOnRails, Sinatrarb.
-                <h4>NEED HELP WITH YOUR PROJECT? CONTACT ME, HOURLY RATE ....</h4>
+                <h4 class="bg-dark"><a class="nav-item" href="contact.php">NEED HELP WITH YOUR PROJECT? CONTACT ME, HOURLY RATE ....</a></h4>
             </div>
             </div>
         </section>
