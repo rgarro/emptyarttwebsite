@@ -89,16 +89,19 @@
         <section class="page-section bg-primary text-white mb-0" id="about">
             <div class="container"></br>
                 <!-- About Section Heading-->
-                <h2 class="page-section-heading text-center text-uppercase text-white">About Me</h2>
+                <center><h3 class="text-center text-uppercase text-white">About Me</h3>
+                <h5 class="text-uppercase text-white">Freelancer Looking For a Gig</h5></center>
                 <!-- Icon Divider-->
                 <div class="divider-custom divider-light">
                     <div class="divider-custom-line">
                     </br>
                     <img src="aboutMe.png" alt="The Dharmakaya of my first G4 Power PC somewere in the 90's..." width="300"/>
+ 
+ 
                     </div>
                     <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                     <div class="divider-custom-line"></div>
- 
+                    
                 </div>
                 <!-- About Section Content-->
                 </br>
@@ -108,13 +111,19 @@
  </br>
  </br>
                 <div class="row">
-                    <div class="col-lg-4 ms-auto"><p class="lead">I started my creative career in the early nineties, welding metal frames for a highway signs company in Central America. I have a Technical Grade as Analist Programmer, Associate Degree as Computer Engineer, Graphic Design Specialist, Web Programmer</p></div>
-                    <div class="col-lg-4 me-auto"><p class="lead">I started my programming career at the begining of the dot-com bubble with PHP starting to exist in the year 2000. Im an expert in C++, C#, PHP, JavaScript, Ruby. Master  TDD techniques in Jasminejs, RSPEC, PHPUnit.I love baking CakePHP projects.Have participated in many Ecommerce projects.</p></div>
+                    <div class="col-lg-4 ms-auto"><p class="lead">I started my Creative career in the early nineties, welding metal frames for a highway signs company in Central America. I have a Technical Grade as Analist Programmer, Associate Degree as Computer Engineer, Graphic Design Specialist, Web Programmer. Started my major in Electromechanic Engineering the moved to Computer Science, I know a lot of Math and Numeric Modeling.</p></div>
+                    <div class="col-lg-4 me-auto"><p class="lead">I started my programming career at the begining of the dot-com bubble with PHP in the year 2000. Im an expert in C++, C#,VisualBasic ,PHP, JavaScript, Ruby. Master  TDD techniques in Jasminejs, RSPEC, PHPUnit.I love baking CakePHP projects.Have participated in many Ecommerce projects.Drupal, Magento , Wordpress Webmaster. Custom Themes Building.</p></div>
                 </div>
                 <!-- About Section Button-->
                 <div class="text-center mt-4">
-                <p class="lead">here ..</p>
-                </div>
+                <p class="lead">Im also a Graphics Programmer in 2D and 3D, WebGL, Graphic Mashups, Microgames. Game Programming with Unity3D ,ActionScript,Away3D, Threejs, Createjs, BabylonJS. 3D Modeling with Blender.</p>
+                <p class="lead">Expert with Adobe Fireworks and Photoshop. </p> 
+                <p class="lead">Database Design and Administration, PL-SQL scripts, Oracle, Mysql, Postgres , Sqlite3, SQL Server. </p>  
+                <p class="lead">Unix and Linux configuring and setup. Expert in RedHat, FreeBSD, Ubuntu and OSX</p>  
+                <p class="lead">Im also an avid Project Manager and Scrum Master.</p>  
+                <p class="lead">I love play the piano and produce music for unity3d microgames.</p>  
+                <h4>NEED HELP WITH YOUR PROJECT? CONTACT ME, HOURLY RATE ....<h4>
+            </div>
             </div>
         </section>
         
