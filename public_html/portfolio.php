@@ -45,8 +45,19 @@
             <div class="text-center mt-4">
                 <p class="lead">
                 <h4>Project History</h4>
+                <small>some websites I have worked in the past</br>
+have collaborated with many others</br>
+have worked in nameless backends, libraries and setups ...</small>
                 <ul class="list-group">
-  <li class="list-group-item">
+                <li class="list-group-item">
+<h5> 2017</h5>
+https://myracingaccount.com/
+  </li>
+                <li class="list-group-item">
+<h5> 2016</h5>
+https://crmalls.com/
+  </li>
+                <li class="list-group-item">
 <h5> 2015</h5>
 http://prestomortgages.com/
   </li>
@@ -74,11 +85,14 @@ https://iconator.com</br>
 </li>
   <li class="list-group-item">
 <h5>2005</h5>
-http://www.starbrightworld.org/
+http://www.starbrightworld.org/</br>
+http://www.librosdoncamilo.com/
 </li>
 <li class="list-group-item">
 <h5> 2004</h5>
-http://www.betplatinum.com/
+http://www.betplatinum.com/ </br>
+http://www.costaricaticas.com/ </br>
+http://www.herediano.com/
 </li>  
 <li class="list-group-item">
 <h5> 2003</h5>

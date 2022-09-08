@@ -108,8 +108,8 @@
  </br>
  </br>
                 <div class="row">
-                    <div class="col-lg-4 ms-auto"><p class="lead">I started my creative career in the early nineties, welding metal frames for a highway signs company in Central America. My grandmother was from Nepal. My grandparent had Buthanese roots. I live exiled in Denver Colorado, begin alms, selling my mind as computer programmer , freelancer saving money to move to Kalmykia</p></div>
-                    <div class="col-lg-4 me-auto"><p class="lead">I started my programming career at the begining of the dot-com bubble with PHP Purple elephant and the MYSQL dolphin comming out from the Ramayana verses in my G4 Power PC laptop. Baking CakePHP or looking for my pick-up truck writing Ruby tales, pushing to Heroku master. I became a super TDD junkie, watching the Snowbird Sunset .</p></div>
+                    <div class="col-lg-4 ms-auto"><p class="lead">I started my creative career in the early nineties, welding metal frames for a highway signs company in Central America. I have a Technical Grade as Analist Programmer, Associate Degree as Computer Engineer, Graphic Design Specialist, Web Programmer</p></div>
+                    <div class="col-lg-4 me-auto"><p class="lead">I started my programming career at the begining of the dot-com bubble with PHP starting to exist in the year 2000. Im an expert in C++, C#, PHP, JavaScript, Ruby. Master  TDD techniques in Jasminejs, RSPEC, PHPUnit.I love baking CakePHP projects.Have participated in many Ecommerce projects.</p></div>
                 </div>
                 <!-- About Section Button-->
                 <div class="text-center mt-4">
