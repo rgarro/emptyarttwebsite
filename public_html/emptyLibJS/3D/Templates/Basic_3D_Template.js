@@ -16,6 +16,8 @@
      this.cameraControl = null;
      this.show_control_gui = false;
      this.show_stats = false;
+     this.rendererWidth = 1200;
+     this.rendererHeight = 600;
      this.ds = null;//datastats object
      this.clearColor = 0x000000;
      this.enable_shadows = true;
@@ -104,7 +106,8 @@
    Basic_3D_Template.prototype.handleResize = function() {
        this.camera.aspect = 1200 / 1000;
        this.camera.updateProjectionMatrix();
-       this.renderer.setSize(1200, 600);//make this sizes prototype my new snowboard in Provo next january ..
+       //console.log(this.rendererHeight+"renderer height");
+       this.renderer.setSize(1200, 600);//renderer width, rendererHeight
    }
 
    return Basic_3D_Template;

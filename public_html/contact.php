@@ -66,7 +66,7 @@
   <div class="card-body">
     <h5 class="card-title">Rolando Garro</h5>
     <h6 class="card-subtitle mb-2 text-muted"><a href= "mailto:rolando@emptyart.xyz" > rolando@emptyart.xyz </a>  </h6>
-    <p class="card-text">Need Help With your Web Programming Project? Contact me for a quote.</p>
+    <p class="card-text">Need Help With your Web Programming Project?</br> Contact me for a quote.</p>
     <a href="#" class="card-link"><a class="btn btn-outline-light" target="_blank" href=" https://wa.me/+18504610264"><i class="fab fa-fw fa-whatsapp"></i> +18504610264 </a>
   </div>
 </div>
