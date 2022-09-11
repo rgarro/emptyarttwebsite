@@ -105,6 +105,10 @@ width: 300;
 text-align: left;
 z-index: 100;
 display:block;
+background-color: #000;
+    color: #fff;
+    opacity: .5;
+    padding: 0 1.5em 0 1.5em;
 }
 </style>      
     </head>
