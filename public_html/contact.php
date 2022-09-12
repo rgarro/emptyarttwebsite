@@ -28,16 +28,11 @@
  * 
  * :: CAKEPHP TEQUILA TRES LECHES WITH BLUE BERRY :::
  * CONTACT
- * The Zintan brigades ridding fords f150
- * machete duels and malian magic
- * boko haram warlords with ancient mexican swords
- * beheading the bbc correspondant
- * while smoking hachis and cutting pieces of their enemies
- * blue nile general blowing himself after the victory in front of his troops
- * memories from my windsurf shack facing the ometepe Sapoa winds ...
  * 
  * @author Rolando<rolando@emptyart.xyz>
  */
+session_start();
+$_SESSION['unitoken'] = uniqid().microtime();
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -87,6 +82,7 @@
   <div class="mb-3">
     <label for="exampleInputMsg" class="form-label">Message</label>
     <input type="text" class="form-control" id="exampleInputMsg" required="required">
+    <input type="hidden" id="unitoken" value="<?=$_SESSION["unitoken"] ?>" />
   </div>       
   
   <button type="submit" class="btn btn-primary">Submit</button>
