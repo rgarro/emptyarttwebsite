@@ -116,7 +116,13 @@
         <script>
     $(document).ready(function(){
         $("#contactForm").submit(function( event ) {
-            alert( "Handler for .submit() called." );
+            console.log( "Handler for .submit() called." );
+            const array = $("#contactForm").serializeArray(); // Encodes the set of form elements as an array of names and values.
+  const djson = {};
+  $.each(array, function () {
+    djson[this.name] = this.value || "";
+  });
+  console.log(djson);
             event.preventDefault();
         });
     });
