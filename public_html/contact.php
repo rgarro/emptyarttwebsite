@@ -27,7 +27,7 @@
  *     \__/     
  * 
  * :: CAKEPHP TEQUILA TRES LECHES WITH BLUE BERRY :::
- * CONTACT
+ * CONTACT PAGE WITH AJAX FORM
  * 
  * @author Rolando<rolando@emptyart.xyz>
  */
@@ -113,13 +113,19 @@ $_SESSION['unitoken'] = uniqid().microtime();
     $(document).ready(function(){
         $("#contactForm").submit(function( event ) {
             console.log( "Handler for .submit() called." );
-            const array = $("#contactForm").serializeArray(); // Encodes the set of form elements as an array of names and values.
-  const djson = {};
-  $.each(array, function () {
-    djson[this.name] = this.value || "";
-  });
-  console.log(djson);
+            //const array = $("#contactForm").serializeArray(); // Encodes the set of form elements as an array of names and values.
+  //const djson = {};
+  //$.each(array, function () {
+    //djson[this.name] = this.value || "";
+  //});
+  console.log("here we are ...");
+  //console.log(djson);
             event.preventDefault();
+            var data = new FormData(event.target);
+
++   var nvalue = Object.fromEntries(data.entries());
+
+    console.log({ nvalue });
         });
     });
     </script>
