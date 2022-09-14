@@ -34,7 +34,13 @@
 session_start();
 try {
     if($_POST["unitoken"] == $_SESSION["unitoken"]){
-
+        mail(
+            string $to,
+            string $subject,
+            string $message,
+            array|string $additional_headers = [],
+            string $additional_params = ""
+        );
     }else{
         throw new Exception('unitoken did not matched comparison.');
     }        
