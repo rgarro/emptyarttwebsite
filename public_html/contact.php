@@ -41,6 +41,7 @@ $_SESSION['unitoken'] = uniqid().microtime();
         include_once("../includes/head.php");
         ?>
         <script src="/js/jquery.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.serializejson.js"></script>
     </head>
     <body id="page-top">
         <!-- Navigation-->
@@ -72,11 +73,11 @@ $_SESSION['unitoken'] = uniqid().microtime();
             <form id="contactForm">
             <div class="mb-3">
     <label for="exampleInputName" class="form-label">Name</label>
-    <input type="text" required="required" class="form-control" id="exampleInputName">
+    <input type="text" name="name" required="required" class="form-control" id="exampleInputName">
   </div>              
   <div class="mb-3">
     <label for="exampleInputEmail1" class="form-label">Email address</label>
-    <input type="email" class="form-control" required="required" id="exampleInputEmail1" aria-describedby="emailHelp">
+    <input type="email" name="email" class="form-control" required="required" id="exampleInputEmail1" aria-describedby="emailHelp">
     <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
   </div>
   <div class="mb-3">
@@ -113,19 +114,10 @@ $_SESSION['unitoken'] = uniqid().microtime();
     $(document).ready(function(){
         $("#contactForm").submit(function( event ) {
             console.log( "Handler for .submit() called." );
-            //const array = $("#contactForm").serializeArray(); // Encodes the set of form elements as an array of names and values.
-  //const djson = {};
-  //$.each(array, function () {
-    //djson[this.name] = this.value || "";
-  //});
+          console.log($('#contactForm').serializeJSON());
   console.log("here we are ...");
-  //console.log(djson);
             event.preventDefault();
-            var data = new FormData(event.target);
-
-+   var nvalue = Object.fromEntries(data.entries());
-
-    console.log({ nvalue });
+           
         });
     });
     </script>

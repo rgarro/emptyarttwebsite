@@ -28,21 +28,18 @@
  * 
  * :: CAKEPHP TEQUILA TRES LECHES WITH BLUE BERRY :::
  *    :: CONTACT CGI with unitoken security ::
+ * The squirrel queen has a secret pond with brineshrimps from Nevada
+ * Old Crow sending sacred visions from the opal nomades ancestors hunting deers
+ * Comanche lost snowboards aspen prophesies pawnees sacred pastures canadian whores ...
  * 
  * @author Rolando<rolando@emptyart.xyz>
  */
 session_start();
 try {
     if($_POST["unitoken"] == $_SESSION["unitoken"]){
-       /* mail(
-            string $to,
-            string $subject,
-            string $message,
-            array|string $additional_headers = [],
-            string $additional_params = ""
-        );*/
-        $str = 'mail -s"contact from website" rgarro@gmail.com <<< '..' > /dev/null &'; //will mail you back from afar twice the same time
-        exec($str)
+        //shell the message , drink a polar pop circlek smoke a joint and cross your fingers ...
+        $str = 'mail -s"contact from website" rgarro@gmail.com <<< '.$_POST['name'].$_POST["message"].' > /dev/null &';
+        exec($str);
     }else{
         throw new Exception('unitoken did not matched comparison.');
     }        
