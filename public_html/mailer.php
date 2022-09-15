@@ -38,7 +38,7 @@ session_start();
 try {
     if($_POST["unitoken"] == $_SESSION["unitoken"]){
         //shell the message , drink a polar pop circlek smoke a joint and cross your fingers ...
-        $str = 'mail -s"contact from website" rgarro@gmail.com <<< '.$_POST['name'].$_POST["message"].' > /dev/null &';
+        $str = 'mail -s"contact from website" rgarro420@gmail.com <<< '.$_POST['name'].$_POST["message"].' > /dev/null &';
         exec($str);
     }else{
         throw new Exception('unitoken did not matched comparison.');

@@ -41,7 +41,7 @@ $_SESSION['unitoken'] = uniqid().microtime();
         include_once("../includes/head.php");
         ?>
         <script src="/js/jquery.min.js"></script>
-        <script type="text/javascript" src="/js/jquery.serializejson.js"></script>
+        <script src="/js/jquery.serializejson.js"></script>
     </head>
     <body id="page-top">
         <!-- Navigation-->
@@ -113,11 +113,13 @@ $_SESSION['unitoken'] = uniqid().microtime();
         <script>
     $(document).ready(function(){
         $("#contactForm").submit(function( event ) {
-            console.log( "Handler for .submit() called." );
-          console.log($('#contactForm').serializeJSON());
-  console.log("here we are ...");
-            event.preventDefault();
-           
+          //console.log($('#contactForm').serializeJSON());
+          console.log("here we are ...");
+          $.post( "/mailer.php",$('#contactForm').serializeJSON())
+  .done(function( data ) {
+    alert( "shelled email ... ");
+  });
+          event.preventDefault(); 
         });
     });
     </script>
