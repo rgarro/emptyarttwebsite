@@ -34,13 +34,15 @@
 session_start();
 try {
     if($_POST["unitoken"] == $_SESSION["unitoken"]){
-        mail(
+       /* mail(
             string $to,
             string $subject,
             string $message,
             array|string $additional_headers = [],
             string $additional_params = ""
-        );
+        );*/
+        $str = 'mail -s"contact from website" rgarro@gmail.com <<< '..' > /dev/null &'; //will mail you back from afar twice the same time
+        exec($str)
     }else{
         throw new Exception('unitoken did not matched comparison.');
     }        

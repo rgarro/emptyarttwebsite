@@ -81,7 +81,7 @@ $_SESSION['unitoken'] = uniqid().microtime();
   </div>
   <div class="mb-3">
     <label for="exampleInputMsg" class="form-label">Message</label>
-    <input type="text" class="form-control" id="exampleInputMsg" required="required">
+    <input type="text" class="form-control" name="message" id="exampleInputMsg" required="required">
     <input type="hidden" id="unitoken" value="<?=$_SESSION["unitoken"] ?>" />
   </div>       
   
