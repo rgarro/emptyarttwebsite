@@ -26,7 +26,6 @@
  *   <]   \>            \_____.>
  *     \__/     
  * 
- * :: CAKEPHP TEQUILA TRES LECHES WITH BLUE BERRY :::
  * CONTACT PAGE WITH AJAX FORM
  * 
  * @author Rolando<rolando@emptyart.xyz>

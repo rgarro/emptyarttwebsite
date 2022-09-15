@@ -1,4 +1,4 @@
-# emptyArt Web Site
+# EmptyArt Web Site
 
 EmptyArt Freelancer WebSite
 A Portfolio Freelancer Contact WebSite with a 3D WebGL MicroGame
